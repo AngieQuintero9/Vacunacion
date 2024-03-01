@@ -1,0 +1,17 @@
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\bin\Debug\net7.0\Repositorio.deps.json
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\bin\Debug\net7.0\Repositorio.dll
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\bin\Debug\net7.0\Repositorio.pdb
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\bin\Debug\net7.0\Entidades.dll
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\bin\Debug\net7.0\Modelo.dll
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\bin\Debug\net7.0\Entidades.pdb
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\bin\Debug\net7.0\Modelo.pdb
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\obj\Debug\net7.0\Repositorio.csproj.AssemblyReference.cache
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\obj\Debug\net7.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\obj\Debug\net7.0\Repositorio.AssemblyInfoInputs.cache
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\obj\Debug\net7.0\Repositorio.AssemblyInfo.cs
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\obj\Debug\net7.0\Repositorio.csproj.CoreCompileInputs.cache
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\obj\Debug\net7.0\Repositorio.csproj.CopyComplete
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\obj\Debug\net7.0\Repositorio.dll
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\obj\Debug\net7.0\refint\Repositorio.dll
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\obj\Debug\net7.0\Repositorio.pdb
+E:\Descargas\Vacunacion-master\Vacunacion-master\Repositorio\obj\Debug\net7.0\ref\Repositorio.dll
